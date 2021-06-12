@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, bem vindo ao meu Github! 😄
+##
+<div> 
+<br>
+<p>
+Ciência da Computação, 4° Periodo 👨‍💻  
+</p>
+<p> 
+Recife, Pernambuco, Brasi. 🌴
+</p> 
+</div>
 
-<!--
-**davimateus1/davimateus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+<p>
+<a href = "https://www.linkedin.com/in/davi-mateus-30aa271a3/" target="_blank"><img height="70" width="80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"></a>
+</p>   
+</div>
