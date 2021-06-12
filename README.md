@@ -6,13 +6,21 @@
 Ciência da Computação, 4° Periodo 👨‍💻  
 </p>
 <p> 
-Recife, Pernambuco, Brasi. 🌴
+Recife, Pernambuco, Brasil. 🌴
 </p> 
 </div>
 
 ##
-<div>
+<div style="display: inline_block">  
 <p>
-<a href = "https://www.linkedin.com/in/davi-mateus-30aa271a3/" target="_blank"><img height="70" width="80" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg"></a>
-</p>   
+Contatos:  
+</p>  
+<a href = "https://www.linkedin.com/in/davi-mateus-30aa271a3/"> <img height="40" width="40" src = "https://image.flaticon.com/icons/png/512/174/174857.png"></a> 
+<a href = "https://www.instagram.com/davimateus1/"> <img height="40" width="40" src = "https://image.flaticon.com/icons/png/512/174/174855.png"></a> 
 </div>
+
+##
+<div style="display: inline_block">  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&layout=compact&langs_count=16&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>  
