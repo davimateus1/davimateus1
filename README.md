@@ -1,7 +1,6 @@
 ### Olá, bem vindo ao meu Github! 😄
 ##
-<a href="https://github.com/davimateus1">
-<div> 
+<div>
 <br>
 <p>
 Ciência da Computação, 4° Periodo 👨‍💻  
@@ -9,6 +8,7 @@ Ciência da Computação, 4° Periodo 👨‍💻
 <p> 
 Recife, Pernambuco, Brasil. 🌴
 </p> 
+<a href="https://github.com/davimateus1">
 </div>
 
 ##
