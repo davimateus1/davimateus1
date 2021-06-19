@@ -22,8 +22,8 @@ Contatos:
 
 ##
 <div style="display: inline_block">  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&layout=compact&langs_count=16&theme=dracula" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&show_icons=true&theme=tokyonight" />
+  <img height="200em" weight="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&theme=tokyonight" />
   
   ![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
   
