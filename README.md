@@ -1,5 +1,6 @@
 ### Olá, bem vindo ao meu Github! 😄
 ##
+<a href="https://github.com/davimateus1">
 <div> 
 <br>
 <p>
@@ -23,4 +24,7 @@ Contatos:
 <div style="display: inline_block">  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&layout=compact&langs_count=16&theme=dracula" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</div>  
+  
+  ![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
