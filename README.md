@@ -1,5 +1,4 @@
-### Olá, bem vindo ao meu Github! 😄
-##
+<h2>Olá, bem vindo ao meu Github! 😄</h2>
 <div>
 <br>
 <p>
@@ -14,7 +13,7 @@ Recife, Pernambuco, Brasil. 🌴
 
 <div style="display: inline_block">  
 <p>
-<strong>Contatos:</strong>  
+<strong><h3>Contatos:</h3></strong>  
 </p>  
 <a href = "https://www.linkedin.com/in/davi-mateus-30aa271a3/"> <img height="40" width="40" src = "https://image.flaticon.com/icons/png/512/174/174857.png"></a> 
 <a href = "https://www.instagram.com/davimateus1/"> <img height="40" width="40" src = "https://image.flaticon.com/icons/png/512/174/174855.png"></a> 
@@ -24,7 +23,7 @@ Recife, Pernambuco, Brasil. 🌴
 <p>
   
   ##
-<strong>Algumas tecnologias que estou estudando:</strong> 
+<strong><h3>Algumas tecnologias que estou estudando:</h3></strong> 
 </p>  
 <img height="20em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
