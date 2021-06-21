@@ -13,7 +13,7 @@ Recife, Pernambuco, Brasil. 🌴
 
 <div style="display: inline_block">  
 <p>
-<strong><h3>Contatos:</h3></strong>  
+<strong><h3>📱 Contatos:</h3></strong>  
 </p>  
 <a href = "https://www.linkedin.com/in/davi-mateus-30aa271a3/"> <img height="20" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href = "https://www.instagram.com/davimateus1/"> <img height="20" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
@@ -24,7 +24,7 @@ Recife, Pernambuco, Brasil. 🌴
 <p>
   
   ##
-<strong><h3>Algumas tecnologias que estou estudando:</h3></strong> 
+<strong><h3>📚 Algumas tecnologias que estou estudando:</h3></strong> 
 </p>  
 <img height="20em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -40,8 +40,8 @@ Recife, Pernambuco, Brasil. 🌴
 ![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  <div>
- <h2> Total de Visitas no perfil :detective: </h2> <br>
+  <div style="display: inline_block"> 
+ <h2> :detective: Total de Visitas no perfil: </h2> <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/davimateus1/count.svg" />
  </p>  
