@@ -42,9 +42,3 @@ Recife, Pernambuco, Brasil. 🌴
 ![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-  <div style="display: inline_block"> 
- <h2> :detective: Total de Visitas no perfil: </h2> <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/davimateus1/count.svg" />
- </p>  
- </div>   
