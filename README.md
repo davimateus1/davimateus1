@@ -17,7 +17,7 @@ Recife, Pernambuco, Brasil. 🌴
 </p>  
 <a href = "https://www.linkedin.com/in/davi-mateus-30aa271a3/"> <img height="20" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href = "https://www.instagram.com/davimateus1/"> <img height="20" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-<a href = "mailto: tutoriaisdavi5@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href = "mailto: davimateusga@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
 <div style="display: inline_block">  
