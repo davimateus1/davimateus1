@@ -44,6 +44,3 @@ Recife, Pernambuco, Brasil. 🌴
 </div>
   
 ##  
-  
-<strong><h3 align="center"> 🕵️ Total de visitas no perfil:</h3></strong>  
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/davimateus1/count.svg" /></p>
