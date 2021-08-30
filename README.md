@@ -44,3 +44,7 @@ Recife, Pernambuco, Brasil. 🌴
 </div>
   
 ##  
+  
+<div align="center">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimateus1&theme=solarized_dark"/>
+</div>
