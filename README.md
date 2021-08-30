@@ -35,7 +35,7 @@ Recife, Pernambuco, Brasil. 🌴
 
 ##
 <a href="https://github.com/davimateus1">
-<div style="display: inline_block">  
+<div style="display: inline_block" align="center">  
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&theme=blue-green"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&theme=blue-green"/>
 
