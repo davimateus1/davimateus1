@@ -4,6 +4,9 @@
 <p>
 Ciência da Computação, 4° Periodo 👨‍💻  
 </p>
+<p>
+Aluno pesquisador (PIBIC), tema: de Processamento de Imagens em Cidades Inteligentes 📚
+</p>
 <p> 
 Recife, Pernambuco, Brasil. 🌴
 </p> 
