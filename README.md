@@ -7,6 +7,9 @@ Ciência da Computação, 4° Periodo 👨‍💻
 <p>
 Aluno pesquisador (PIBIC), tema: Processamento de Imagens em Cidades Inteligentes 📚
 </p>
+<p>
+Aprendiz em Desenvolvimento Web na <a href="https://www.elev.life">Elev*</a>💻
+</p>
 <p> 
 Recife, Pernambuco, Brasil. 🌴
 </p> 
