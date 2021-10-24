@@ -11,7 +11,7 @@
 • Desenvolvedor Web na <a href="https://www.elev.life">Elev*</a> 💚
 </p>
 <p> 
-• Recife, Pernambuco, Brasil. 🌴
+• Recife, Pernambuco, Brasil 🌴
 </p> 
 </div>
 
