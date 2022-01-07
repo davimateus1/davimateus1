@@ -2,7 +2,7 @@
 <div>
 <br>
 <p>
-• Ciência da Computação, 4° Periodo 👨‍💻  
+• Ciência da Computação, 5° Periodo 👨‍💻  
 </p>
 <p>
 • Desenvolvedor Front-end na BZU Tech 💜
