@@ -1,4 +1,5 @@
 <h2>Olá, bem vindo(a) ao meu Github! 😄</h2>
+
 <div>
 <br>
 <p>
@@ -15,7 +16,7 @@
 </p> 
 </div>
 
-##
+<hr>  
 
 <div style="display: inline_block">  
 <p>
@@ -31,29 +32,34 @@
 <div style="display: inline_block">  
 <p>
   
-##
+<hr>  
+  
 <strong><h3>⚙️ Skills:</h3></strong> 
 </p>  
- <div>
+  <a href="https://github.com/davimateus1">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </div>
+  </a>
 </div>
 
-##
+<hr>  
+
 <strong><h3>📚 Tecnologias que pretendo estudar:</h3></strong> 
 </p>  
  <div align="">
+   <a href="https://github.com/davimateus1">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
   </div>
 </div>
 
-##
+<hr>  
+
 <a href="https://github.com/davimateus1">
 <div style="display: inline_block" align="center">  
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&theme=blue-green"/>
@@ -63,7 +69,7 @@
   
 </div>
   
-##  
+<hr>  
   
 <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimateus1&theme=solarized_dark"/>
