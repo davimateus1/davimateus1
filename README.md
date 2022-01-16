@@ -1,6 +1,6 @@
-<h2>Olá, bem vindo(a) ao meu Github! 😄</h2>
-
 <div>
+<h3 align="center">Olá, bem vindo(a) ao meu Github! 😄</h3>
+<hr>
 <br>
 <p>
 • Ciência da Computação, 5° Periodo 👨‍💻  
