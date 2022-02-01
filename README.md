@@ -3,7 +3,7 @@
 <hr>
 <br>
 <p>
-• Ciência da Computação, 5° Periodo 👨‍💻  
+• Ciência da Computação - UNICAP, 5° Periodo 👨‍💻  
 </p>
 <p>
 • Desenvolvedor Front-end na BZU Tech 💜
