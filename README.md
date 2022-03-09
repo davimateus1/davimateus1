@@ -5,9 +5,6 @@
 <p>
 • Ciência da Computação - UNICAP, 5° Periodo 👨‍💻  
 </p>
-<p>
-• Desenvolvedor Front-end na BZU Tech 💜
-</p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
 </p> 
