@@ -6,7 +6,7 @@
 • Ciência da Computação - UNICAP, 5° Periodo 👨‍💻  
 </p>
 <p>
-• Front-end Enginner at Loomi 💜🚀  
+• Engenheiro Front-end na Loomi 💜🚀  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
