@@ -23,7 +23,7 @@
 <a href = "https://www.instagram.com/davimateus1/"> <img height="20" src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 <a href = "mailto: davimateusga@gmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href = "https://api.whatsapp.com/send?phone=5587988476864&text=Enviar%20mensagem%20para%20Davi%20Mateus"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
-<a href = "https://davimateusg.vercel.app/"> <img height="20" src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
+<a href = "https://davimateusga.vercel.app/"> <img height="20" src = "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
 </div>
 
 <div style="display: inline_block">  
