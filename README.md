@@ -38,7 +38,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="StyledComponents" height="30" width="40" src="https://user-images.githubusercontent.com/66326378/156859431-04c3ea45-08cd-46e5-a839-f314b9d745ef.png" />
   </a>
@@ -51,7 +52,6 @@
  <div align="">
   <a href="https://github.com/davimateus1">
   <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </a>
   </div>
@@ -61,9 +61,11 @@
 
 <a href="https://github.com/davimateus1">
 <div style="display: inline_block" align="center">  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&theme=blue-green"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&theme=blue-green"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=davimateus1&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"/>
+</a>
+  
 ![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
   
 </div>
@@ -71,5 +73,5 @@
 <hr>  
   
 <div align="center">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimateus1&theme=solarized_dark"/>
+  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=davimateus1&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=Commits%20no%20Github"/>
 </div>
