@@ -3,7 +3,7 @@
 <hr>
 <br>
 <p>
-• Ciência da Computação - UNICAP, 5° Periodo 👨‍💻  
+• Ciência da Computação - UNICAP, 6° Periodo 👨‍💻  
 </p>
 <p>
 • Engenheiro Front-end na Loomi 💜🚀  
