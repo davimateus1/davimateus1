@@ -46,6 +46,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="StyledComponents" height="30" width="40" src="https://user-images.githubusercontent.com/66326378/156859431-04c3ea45-08cd-46e5-a839-f314b9d745ef.png" />
+  <img align="center" alt="chakra-ui" height="30" width="30" src="https://img.icons8.com/color/48/000000/chakra-ui.png" />
   </a>
 </div>
 
