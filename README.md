@@ -90,6 +90,6 @@
  
 <a href="https://github.com/davimateus1">
 <div align="center">
-  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=davimateus1&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=Commits%20no%20Github"/>
+  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=davimateus1&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=""/>
 </div>
 </a>
