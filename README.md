@@ -75,9 +75,17 @@
 </a>
   
 ![Snake animation](https://github.com/davimateus1/davimateus1/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
-  
+
+<hr>
+
+<div align="center">
+  <strong><h3>🏆 Meus troféus no Github 🏆</h3></strong> 
+  <a href="https://github.com/davimateus1">
+    <img src="https://github-profile-trophy.vercel.app/?username=davimateus1&theme=onedark&no-frame=true&no-bg=false&margin-w=4">
+  </a>
+</div>
+
 <hr>  
  
 <a href="https://github.com/davimateus1">
