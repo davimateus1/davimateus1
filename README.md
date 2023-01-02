@@ -89,8 +89,6 @@
 
 <hr>  
  
-<a href="https://github.com/davimateus1">
-<div align="center">
-  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=davimateus1&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=""/>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=davimateus1&bg_color=282a36&color=ffffff&line=8be9fd&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </a>
