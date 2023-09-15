@@ -12,7 +12,7 @@
 • Ciência da Computação - UNICAP, 8° e último período 👨‍💻  
 </p>
 <p>
-• Engenheiro Front-end na Loomi 💜🚀  
+• Engenheiro de Front-end 🚀  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
