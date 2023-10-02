@@ -12,7 +12,7 @@
 • Ciência da Computação - UNICAP, 8° e último período 👨‍💻  
 </p>
 <p>
-• Engenheiro de Front-end 🚀  
+• Engenheiro de Software Pleno na FCX Labs 🚀  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
