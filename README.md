@@ -9,10 +9,10 @@
 <hr>
 <br>
 <p>
-• Ciência da Computação - UNICAP, 8° e último período 👨‍💻  
+• Bacharelado em Ciência da Computação pela UNICAP 👨‍💻  
 </p>
 <p>
-• Engenheiro de Software Pleno 🚀  
+• Engenheiro de Software 🚀  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
