@@ -7,9 +7,11 @@
 <div>
 <h3 align="center">Bem vindo(a) ao meu Github! 😄</h3>
 <hr>
-<br>
 <p>
-• Bacharelado em Ciência da Computação pela UNICAP 👨‍💻  
+• Bacharel em Ciência da Computação (UNICAP) 👨‍💻  
+</p>
+<p>
+• MBA em Engenharia de Software (USP/Esalq) ⌛  
 </p>
 <p>
 • Engenheiro de Software 🚀  
