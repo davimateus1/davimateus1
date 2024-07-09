@@ -14,7 +14,7 @@
 • MBA em Engenharia de Software (USP/Esalq) ⌛  
 </p>
 <p>
-• Engenheiro de Software 🚀  
+• Engenheiro de Software (Pleno) 🚀  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
