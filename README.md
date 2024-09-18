@@ -14,7 +14,7 @@
 • MBA em Engenharia de Software (USP/Esalq) ⌛  
 </p>
 <p>
-• Engenheiro de Software (Pleno) 🚀  
+• Engenheiro de Software Pleno no CESAR 🧡  
 </p>
 <p> 
 • Recife, Pernambuco, Brasil 🌴
